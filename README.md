@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[https://jchv5.github.io/index](url) and ![https://i.imgur.com/orMKKLC.gif](src)
+[https://jchv5.github.io](url) and ![https://i.imgur.com/orMKKLC.gif](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
